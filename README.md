@@ -28,29 +28,29 @@
 
 int main()<br>
 {<br>
-	setlocale(LC_CTYPE, ".UTF-8");<br>
-	float a, b, h;<br>
-	float c, P, S;<br>
+	setlocale(LC_CTYPE, ".UTF-8");
+	float a, b, h;
+	float c, P, S;
 
-	printf("Введите большое основание a:\n");<br>
-	scanf("%3f", &a);<br>
+	printf("Введите большое основание a:\n");
+	scanf("%3f", &a);
 
-	printf("Введите меньшее основание b:\n");<br>
-	scanf("%3f", &b);<br>
+	printf("Введите меньшее основание b:\n");
+	scanf("%3f", &b);
 
-	printf("Введите высоту h:\n");<br>
-	scanf("%3f", &h);<br>
+	printf("Введите высоту h:\n");
+	scanf("%3f", &h);
 
-	c = sqrt(h * h + ((a - b) * (a - b)) / 4);<br>
+	c = sqrt(h * h + ((a - b) * (a - b)) / 4);
 
-	P = a + b + 2 * c;<br>
+	P = a + b + 2 * c;
 
-	S = (a + b) * h / 2;<br>
+	S = (a + b) * h / 2;
 
-	printf("Периметр трапеции: %.2f\n", P);<br>
-	printf("Площадь трапеции: %.2f\n", S);<br>
+	printf("Периметр трапеции: %.2f\n", P);
+	printf("Площадь трапеции: %.2f\n", S);
 
-	return 0;<br>
+	return 0;
 }<br>
 <h2>Результат работы программы</h2><br>
 исходные данные:<br>
