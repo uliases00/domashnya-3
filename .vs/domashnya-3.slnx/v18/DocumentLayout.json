@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\New\\source\\repos\\domashnya-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1759F667-EFFE-40BA-AF03-C3B997C9C41C}|domashnya-3\\domashnya-3.vcxproj|C:\\Users\\New\\source\\repos\\domashnya-3\\domashnya-3\\domashnya-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1759F667-EFFE-40BA-AF03-C3B997C9C41C}|domashnya-3\\domashnya-3.vcxproj|solutionrelative:domashnya-3\\domashnya-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "domashnya-3.c",
+              "DocumentMoniker": "C:\\Users\\New\\source\\repos\\domashnya-3\\domashnya-3\\domashnya-3.c",
+              "RelativeDocumentMoniker": "domashnya-3\\domashnya-3.c",
+              "ToolTip": "C:\\Users\\New\\source\\repos\\domashnya-3\\domashnya-3\\domashnya-3.c",
+              "RelativeToolTip": "domashnya-3\\domashnya-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-26T12:25:45.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

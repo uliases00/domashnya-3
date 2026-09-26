@@ -1,0 +1,3 @@
+﻿  domashnya-3.c
+C:\Users\New\source\repos\domashnya-3\domashnya-3\domashnya-3.c(21,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  domashnya-3.vcxproj -> C:\Users\New\source\repos\domashnya-3\x64\Debug\domashnya-3.exe
