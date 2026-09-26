@@ -1,4 +1,4 @@
-<h1>Домашнее задание к работе 2</h1>
+<h1>Домашнее задание к работе 3</h1>
 <h1>Вариант 28</h1>
 <h2>Условие задачи</h2>
 Написать и отладить программу расчета периметра и площади равнобедренной трапеции по высоте и основанию.
@@ -19,7 +19,7 @@
 4)Вывод результата<br>
 5)Конец<br>
 <h2>Диаграма</h2>
-<img width="98" height="301" alt="image" src="https://github.com/uliases00/domashnya-2/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png" />
+<img width="98" height="301" alt="image" src="https://github.com/uliases00/domashnya-3/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20(1).png"/>
 <h2>Реализация программы</h2>
 #define _CRT_SECURE_NO_WARNINGS<br>
 #include <stdio.h><br>
